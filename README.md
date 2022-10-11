@@ -1,3 +1,0 @@
-TITLE
-
-trial version
